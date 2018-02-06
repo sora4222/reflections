@@ -1,0 +1,9 @@
+Initializing a repository is what is
+needed for setting up the git bash
+to function correctly and track changes.
+
+The staging area represents the 
+files that are being tracked by git. The
+working directory is all files in the 
+directory. The repository is the metadata
+storing all of this information.
