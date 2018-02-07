@@ -7,3 +7,14 @@ files that are being tracked by git. The
 working directory is all files in the 
 directory. The repository is the metadata
 storing all of this information.
+
+Branches would be useful when I or a team
+member wants to change the software 
+without causing damage, or they want to 
+make fixes, or add more features.
+
+Gits automatic merging is much quicker,
+however it is only really possible for it
+to function when things are clear cut and 
+there is changed in one and changed in
+the other.
